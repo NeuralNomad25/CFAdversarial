@@ -1,0 +1,5 @@
+Predicted probabilities for the original example (Index 156):
+BENIGN: 0.0020
+XSS: 0.3756
+Brute Force: 0.6224
+Sql Injection: 0.0000

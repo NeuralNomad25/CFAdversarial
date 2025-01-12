@@ -1,0 +1,5 @@
+Predicted probabilities for the adversarial example (Index 156):
+BENIGN: 1.0000
+XSS: 0.0000
+Brute Force: 0.0000
+Sql Injection: 0.0000
