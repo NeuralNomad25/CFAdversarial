@@ -14,9 +14,6 @@ This repository implements **black-box adversarial attacks** to mislead an Intru
 2. **Black-Box Attacks**: Implementation of HopSkipJump, ZOO, and SignOPT attacks with and without CounterfactualGAN.
 3. **Explainability**: Visualize and interpret feature importance of adversarial examples.
 4. **Performance Metrics**:
-   - **Attack Success Rate**
-   - **Query Efficiency**
-   - **Perturbation Magnitude**
 
 ---
 
