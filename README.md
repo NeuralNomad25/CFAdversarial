@@ -8,21 +8,6 @@ This repository implements **black-box adversarial attacks** to mislead an Intru
 
 ---
 
-## Key Features
-
-1. **CounterfactualGAN**: A GAN-based model to craft adversarial perturbations for targeted misclassification.
-2. **Black-Box Attacks**: Implementation of HopSkipJump, ZOO, and SignOPT attacks with and without CounterfactualGAN.
-3. **Explainability**: Visualize and interpret feature importance of adversarial examples.
-4. **Performance Metrics**:
-
----
-
-## Prerequisites
-
-1. Python 3.8+
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
 CFGANAdvGit/
 ├── data_for_comparison.zip     # Comparison datasets for adversarial examples
 ├── model_for_comparison.sav    # Pre-trained IDS model for comparison
@@ -43,4 +28,12 @@ CFGANAdvGit/
 └── .config                    # Configuration files for training and attacks
 
 
-python train_ids.py
+
+
+**Acknowledgements**
+CounterfactualGAN: A novel GAN-based approach for generating adversarial examples.
+Black-box attacks: Implementations of HopSkipJump, ZOO, and SignOPT based on the original papers.
+LIME/SHAP: Explainability tools for interpreting adversarial examples.
+csharp
+
+
